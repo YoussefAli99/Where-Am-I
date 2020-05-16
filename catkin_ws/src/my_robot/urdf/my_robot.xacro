@@ -189,12 +189,12 @@
   </joint>
 
   <gazebo reference="chassis">
-    <material>Gazebo/White</material>
+    <material>Gazebo/Red</material>
   </gazebo>
   <gazebo reference="left_wheel">
-    <material>Gazebo/Black</material>
+    <material>Gazebo/Green</material>
   </gazebo>
   <gazebo reference="right_wheel">
-    <material>Gazebo/Black</material>
+    <material>Gazebo/Green</material>
   </gazebo>
 </robot>
